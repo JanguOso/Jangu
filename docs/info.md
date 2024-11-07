@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My circuit uses And & NOT logic gates to make a password
 
 ## How to test
 
-Explain how to use your project
+You can test by turning on the 3145 levers
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No externals...
